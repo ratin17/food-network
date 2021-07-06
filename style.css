@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.bigger_heading{
+    font-size: 50px;
+}
+
+.orange_text{
+    color: orange;
+}
+
+.flexible_alignment{
+    display: flex;
+}
+
+.half_width{
+    width: 50%;
+    padding: 5%;
+}
+
+.half_width img{
+    width: 95%;
+}
+
+.my_button{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 20px 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: white;
+    font-weight: 900;
+}
+
+.bg_image{
+    background-image: url(images/sec2bg.jpg);
+    background-repeat: no-repeat;
+}
